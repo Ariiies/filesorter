@@ -12,6 +12,16 @@ This project contains two Python scripts to organize files in a directory. Both 
 - **Automatic Directory Creation**: The scripts automatically create the necessary destination folders if they don't exist.
 - **Console Logs**: Both scripts provide feedback in the console, showing which folders are created and which files are moved.
 
+## Visual Example
+
+Here is a visual example of what the script does when running `filesorter.py`.
+
+### Before
+![Before sorting](example-results/before.png)
+
+### After
+![After sorting](example-results/after.png)
+
 ## Setup and Installation
 
 1.  **Clone the repository:**
